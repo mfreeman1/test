@@ -1,0 +1,7 @@
+Git commands
+When adding on to your repository online ewith changes
+
+git add Nameofthefile
+git commit -m "Your note"
+git push
+#Enter username: mfreeman1 password:*****
